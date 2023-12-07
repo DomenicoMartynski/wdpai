@@ -7,3 +7,12 @@ body {
   p {
     color: red;
   }
+
+  input,textarea{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+    padding: 1em;
+    margin: 1em;
+    width:50%;
+  }
